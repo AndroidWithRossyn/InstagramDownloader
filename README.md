@@ -21,16 +21,16 @@
 
 
 # What's new:
-    🔥 Copy link and Download Working.
-    🔥 Media View Updated & Check update in App.
-    🔥 User Friendly Update, Fast Loading.
+    🔥 Now Save WhatsApp Status.
+    🔥 Now Download DP, Highlights & Stories.
+    🔥 Captions , Hashtags, Font & Image editor added.
+    🔥 Media View Updated Full Screen Use.
+    🔥 User Friendly Update, Fast Loading & Improved Layouts.
     🔥 Fixed the issue where the post page loaded more and failed.
     🔥 Download Photos and Videos from Instagram.
     🔥 Get all post of user.
     🔥 Get IGTV videos and watch them directly.
     🔥 Improved user experience.
-    🔥 Quickly browser and download posts from Instagram without leaving the app.
-    🔥 Repost directly to Instagram.
 
  # Download Now:
 <p align="center">
@@ -85,7 +85,7 @@ For any inquiry, app support or app customization contact us at
 ## InSaver Instagram Downloader
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
-      <img src="https://user-images.githubusercontent.com/118904953/207775537-231dc6fe-5174-41b1-b326-a4f07becc509.png" width="1280" />
+      <img src="https://user-images.githubusercontent.com/118904953/226152164-0b49db6b-4a22-4d5b-b5fb-da294c4b9078.png" width="1280" />
     </a>
   </p>
   
