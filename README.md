@@ -2,9 +2,8 @@
   <h1 align="center">InSaver: Reels , Story & Video</h1>
   
   <h3>InSaver helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
-
-   
-- ⚡  If You want to join us than message on <a href="banrossyn@gmail.com">Mail</a>
+  
+- ⚡  If You want to join us than message on <a href="https://wa.me/+919694260426/">Whatsapp</a> , <a href="banrossyn@gmail.com">Mail</a>
 &
 <a href="https://t.me/banrossyn">Telegram</a>. 
 
@@ -21,9 +20,10 @@
 
 
 # What's new:
+    🔥 Bug Fix Download Via Link works.
+    🔥 Bookmark With Username.
+    🔥 Now Save DP, Highlights & Stories via search.
     🔥 Now Save WhatsApp Status.
-    🔥 Now Download DP, Highlights & Stories.
-    🔥 Captions , Hashtags, Font & Image editor added.
     🔥 Media View Updated Full Screen Use.
     🔥 User Friendly Update, Fast Loading & Improved Layouts.
     🔥 Fixed the issue where the post page loaded more and failed.
@@ -31,6 +31,33 @@
     🔥 Get all post of user.
     🔥 Get IGTV videos and watch them directly.
     🔥 Improved user experience.
+
+# Source Code Available at Low Price.
+
+We are giving the source code only in 30 usd and price negotiable.
+
+For any inquiry, app support or app customization contact us at
+
+–  banrossyn@gmail.com
+
+–  https://wa.me/+919694260426/
+
+–  https://t.me/banrossyn/
+
+# Note:
+This source code will be offical given directly through the developer. You will not find this on any selling website. To buy the source code, you have to directly connect with the developer. For this, payment will have to be made through the method given by the developer, after payment you will be given the source code through mail. Any kind of change in the app will be charged separately. After purchasing the app, you will be helped till it is published.
+
+Regars
+
+Rossyn
+
+## InSaver Instagram Downloader
+<p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
+      <img src="https://user-images.githubusercontent.com/118904953/226152164-0b49db6b-4a22-4d5b-b5fb-da294c4b9078.png" width="1280" />
+    </a>
+  </p>
+  
 
  # Download Now:
 <p align="center">
@@ -53,6 +80,11 @@ When you wanna download videos from Instagram feeds and IGTV, story saver and vi
      
 # Features:
     ✪ Fast Download.
+    ✪ Copy and shere link download.
+    ✪ Bookmark your favorite Person.
+    ✪ Download media via search method.
+    ✪ whatsapp saver for free two in one.
+    ✪ History will be added on every downloaded file.
     ✪ Simple and easy interface
     ✪ Only one app contains Bookmark Downloader.
     ✪ Download and Save Video and Picturs.
@@ -62,7 +94,7 @@ When you wanna download videos from Instagram feeds and IGTV, story saver and vi
     ✪ Share media with anyone.
   
     
-# Reels Video Downloader for Instagram:
+# Best Reels Video Downloader for Instagram:
 Reels is a kind of short video in Instagram, you can now download reels video from Instagram and Instagram lite. The easiest way to download Videos for Reels is sharing the link of Reels video to insaver. 
 
 <p align="center">
@@ -72,29 +104,7 @@ Reels is a kind of short video in Instagram, you can now download reels video fr
   </p>
 
 
-# Source Code Available at Low Price.
-For any inquiry, app support or app customization contact us at
 
-–  banrossyn@gmail.com
-
-–  https://wa.me/+919694260426/
-
-–  https://t.me/banrossyn/
-
-
-## InSaver Instagram Downloader
-<p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
-      <img src="https://user-images.githubusercontent.com/118904953/226152164-0b49db6b-4a22-4d5b-b5fb-da294c4b9078.png" width="1280" />
-    </a>
-  </p>
-  
-## InstaGramzy-All-in-one-Instagram-toolkit-with-Followers-Analytics 
- <p align="center">
-    <a href="https://github.com/OmaPrakash/InstaGramzy-All-in-one-Instagram-toolkit-with-Followers-Analytics/blob/main/app-debug.apk?raw=true">
-      <img src="https://user-images.githubusercontent.com/118904953/222895458-977963c5-b395-4423-ba93-9a7b1c156a3b.jpg" width="1280" />
-    </a>
-  </p>
   
 
 # How to Download Videos from Instagram :
