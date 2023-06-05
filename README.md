@@ -34,7 +34,7 @@
 
 # Source Code Available at Low Price.
 
-We are giving the source code only in 30 usd and price negotiable.
+We are giving the source code only in 3000 INR and price negotiable.
 
 For any inquiry, app support or app customization contact us at
 
@@ -54,7 +54,7 @@ Rossyn
 ## InSaver Instagram Downloader
 <p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
-      <img src="https://user-images.githubusercontent.com/118904953/226152164-0b49db6b-4a22-4d5b-b5fb-da294c4b9078.png" width="1280" />
+      <img src="https://github.com/OmaPrakash/InSaver-Reels-Story-Video/assets/118904953/284cd512-e2f5-43aa-b225-9974606f3b8c" width="1280" />
     </a>
   </p>
   
