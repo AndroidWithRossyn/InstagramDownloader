@@ -34,8 +34,6 @@
 
 # Source Code Available at Low Price.
 
-We are giving the source code only in 3000 INR and price negotiable.
-
 For any inquiry, app support or app customization contact us at
 
 –  banrossyn@gmail.com
