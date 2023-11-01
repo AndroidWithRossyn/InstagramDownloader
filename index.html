@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>InSaver: Instagram Downloader - Documentation</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link
+        href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+        rel='stylesheet' type='text/css'>
+
+    <!-- FontAwesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js"
+        integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a"
+        crossorigin="anonymous"></script>
+
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/prism/prism.css">
+
+    <link rel="stylesheet" href="assets/plugins/elegant_font/css/style.css">
+
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+
+</head>
+
+<body class="body-green">
+
+    <div class="page-wrapper">
+        <!-- ******Header****** -->
+        <header id="header" class="header">
+            <!--//container-->
+            <div class="container">
+                <div class="branding">
+                    <h1 class="logo">
+                        <a href="index.html">
+                            <span aria-hidden="true" class="icon_documents_alt icon"></span>
+                            <span class="text-highlight">Ban Rossyn</span><span class="text-bold">Docs</span>
+                        </a>
+                    </h1>
+                </div>
+                <!--//branding-->
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">InSaver: Instagram Downloader</a></li>
+                    <li class="breadcrumb-item active">Documentation</li>
+                </ol>
+               
+            </div>
+        </header><!--//header-->
+        
+        <div class="doc-wrapper">
+            <div class="container">
+                <div id="doc-header" class="doc-header text-center">
+                    <h1 class="doc-title"><i class="icon fa fa-paper-plane"></i> Documentation </h1>
+                    <div class="meta"><i class="far fa-clock"></i> Last updated: 08/08/2023</div>
+                    <div>
+                        <a class="logo">&copy; 2022 Rossyn. All rights reserved.</a>
+                    </div>
+                </div><!--//doc-header-->
+                <div class="doc-body row">
+                    <div class="doc-content col-md-9 col-12 order-1">
+                        <div class="content-inner">
+                            <section id="android-studio" class="doc-section">
+                                <h2 class="section-title">Android studio</h2>
+                                <div id="android-studio-download" class="section-block">
+                                    <h4 class="block-title">Download Android studio</h4>
+                                    <div class="content">
+                                        <p>
+                                            To use this project you need to download the android studio on your computer
+                                            first you need to visit this link (click button bellow) then click the
+                                            button "DOWNLOAD ANDROID STUDIO" to get the righ
+                                            version for your system
+                                        </p>
+                                        <center>
+                                            <a href="https://developer.android.com/studio/" class="btn btn-green"
+                                                target="_blank"> Download Android studio</a>
+                                        </center>
+                                        <br>
+
+                                    </div>
+                                </div>
+
+                                <div id="android-studio-open-project" class="section-block">
+                                    <h4 class="block-title">Open Project in Android studio</h4>
+                                    <div class="content">
+                                        <p>
+                                            Now you need to open the Android Application on Android Studio . Unzip
+                                            Project Folder > Open an Existing Android Studio Project > Select Your
+                                            Project > ok.
+                                        </p>
+                                        <br>
+                                        <img width="800" height="440" src="assets/images/image_open.png"
+                                            allowfullscreen></img>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="android-project" class="doc-section">
+                                <h2 class="section-title">Config Android Project</h2>
+                                <div class="content">
+                                    <p>After Download , install and open the project on Android Studio , now you need to
+                                        config your source code and make it ready by change package name config firebase
+                                        config facebook .... </p>
+                                </div>
+                                <br>
+                                <br>
+                                <div id="android-project-package-name" class="section-block">
+                                    <h4 class="block-title">Change the package name</h4>
+                                    <div class="content">
+                                        <p>
+                                            Every Android Application on Google Play has a unique package name (unique
+                                            id) , for this application too we need to use a unique package name , for
+                                            that you need to choose a unique package name (ApplicationId) with three
+                                            part for example : <b>com.companyname.appname</b> , now to change you
+                                            package name follow the steps :
+                                            <br>
+                                            <br>
+                                            <img width="800" height="440" src="assets/images/change_name_s1.png"
+                                                allowfullscreen></img>
+                                            <br>
+                                            <br>
+                                            <img width="800" height="440" src="assets/images/change_name_s2.png"
+                                                allowfullscreen></img>
+                                            <br>
+                                            <br>
+                                            <img width="800" height="440" src="assets/images/change_name_s3.png"
+                                                allowfullscreen></img>
+                                            <br>
+                                        </p>
+
+                                        <p>
+                                            Now open your build.gradle (Usually 'app' or 'mobile'). Update the
+                                            applicationId to your Package Name and Sync Gradle, if it hasn't already
+                                            been updated automatically.
+                                            NOTE: When renaming com in Android Studio, it might give a warning. In such
+                                            case, select Rename All :
+                                            <br>
+                                            <br>
+                                            <img width="800" height="440" src="assets/images/change_name_s4.png"
+                                                allowfullscreen></img>
+                                            <br>
+                                        </p>
+
+                                        <div class="callout-block callout-danger">
+                                            <div class="icon-holder">
+                                                <svg class="svg-inline--fa fa-bug fa-w-16" aria-hidden="true"
+                                                    data-prefix="fas" data-icon="bug" role="img"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+                                                    data-fa-i2svg="">
+                                                    <path fill="currentColor"
+                                                        d="M511.988 288.9c-.478 17.43-15.217 31.1-32.653 31.1H424v16c0 21.864-4.882 42.584-13.6 61.145l60.228 60.228c12.496 12.497 12.496 32.758 0 45.255-12.498 12.497-32.759 12.496-45.256 0l-54.736-54.736C345.886 467.965 314.351 480 280 480V236c0-6.627-5.373-12-12-12h-24c-6.627 0-12 5.373-12 12v244c-34.351 0-65.886-12.035-90.636-32.108l-54.736 54.736c-12.498 12.497-32.759 12.496-45.256 0-12.496-12.497-12.496-32.758 0-45.255l60.228-60.228C92.882 378.584 88 357.864 88 336v-16H32.666C15.23 320 .491 306.33.013 288.9-.484 270.816 14.028 256 32 256h56v-58.745l-46.628-46.628c-12.496-12.497-12.496-32.758 0-45.255 12.498-12.497 32.758-12.497 45.256 0L141.255 160h229.489l54.627-54.627c12.498-12.497 32.758-12.497 45.256 0 12.496 12.497 12.496 32.758 0 45.255L424 197.255V256h56c17.972 0 32.484 14.816 31.988 32.9zM257 0c-61.856 0-112 50.144-112 112h224C369 50.144 318.856 0 257 0z">
+                                                    </path>
+                                                </svg><!-- <i class="fas fa-bug"></i> -->
+                                            </div><!--//icon-holder-->
+                                            <div class="content">
+                                                <h4 class="callout-title">Please note</h4>
+                                                <ul>
+                                                    <li>The only special characters allowed on package name its
+                                                        underscore </li>
+                                                    <li>Don't change the "com" part on package name</li>
+                                                    <li>Google will not allow you to change the package name after
+                                                        publish the app on google play</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <br>
+                                    </div>
+                                </div>
+                                <div id="android-project-firebase" class="section-block">
+                                    <h4 class="block-title">Firebase Configuration</h4>
+                                    <div class="content">
+                                        <p>
+                                            After Change package name now you need to config the firebase (firebase its
+                                            a google service used to send notification and to allow the application
+                                            login with google accounts)
+                                            <br>
+
+                                        <div class="code-block">
+                                            <h6>use the commande bellow to generate the sha1 key : </h6>
+                                            <pre><code class="language-markup">keytool -exportcert -list -v \-alias &lt;your-key-name&gt; -keystore &lt;path-to-production-keystore&gt;</code></pre>
+                                        </div><!--//code-block-->
+                                        After creating the app on Firebase, sync the project by putting the Json file in
+                                        the right folder.
+                                        <br>
+                                        <br>
+                                        <img src="assets/images/firebase.png" allowfullscreen></img>
+                                        <br>
+                                        After this, you have to make some changes in your Firebase Remote config which
+                                        are shown below
+
+                                        <br>
+                                        <br>
+                                        <img width="800" height="440" src="assets/images/firebase_config.png"
+                                            allowfullscreen></img>
+                                        <br>
+
+
+                                        <div class="code-block">
+                                            <h6>use keys for instant ads id changes without release new version: </h6>
+                                            <pre><code class="language-markup">Adshow: true 
+bannerAdFullId:ca-app-pub-45773xx2853353362/xyz854  
+bannerAdId:ca-app-pub-45773xxx353362/xyz9375000  
+interstitialAdId:ca-app-pub-457xxx853xyz362/1330000676  
+showInterstitial:true  
+Version:8.7.8.7
+                                            </code></pre>
+                                        </div><!--//code-block-->
+                                        <br>
+
+                                        Make sure that: you need to make changes in remote_config_defaults
+                                        InSaver-Reels-Story-Video\app\src\main\res\xml
+
+                                        <br>
+                                        <br>
+                                        <img width="800" height="440" src="assets/images/firebaseconfigchangesinapp.png"
+                                            allowfullscreen></img>
+                                        <br>
+                                        <br>
+
+                                        <div class="callout-block callout-danger">
+                                            <div class="icon-holder">
+                                                <svg class="svg-inline--fa fa-bug fa-w-16" aria-hidden="true"
+                                                    data-prefix="fas" data-icon="bug" role="img"
+                                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+                                                    data-fa-i2svg="">
+                                                    <path fill="currentColor"
+                                                        d="M511.988 288.9c-.478 17.43-15.217 31.1-32.653 31.1H424v16c0 21.864-4.882 42.584-13.6 61.145l60.228 60.228c12.496 12.497 12.496 32.758 0 45.255-12.498 12.497-32.759 12.496-45.256 0l-54.736-54.736C345.886 467.965 314.351 480 280 480V236c0-6.627-5.373-12-12-12h-24c-6.627 0-12 5.373-12 12v244c-34.351 0-65.886-12.035-90.636-32.108l-54.736 54.736c-12.498 12.497-32.759 12.496-45.256 0-12.496-12.497-12.496-32.758 0-45.255l60.228-60.228C92.882 378.584 88 357.864 88 336v-16H32.666C15.23 320 .491 306.33.013 288.9-.484 270.816 14.028 256 32 256h56v-58.745l-46.628-46.628c-12.496-12.497-12.496-32.758 0-45.255 12.498-12.497 32.758-12.497 45.256 0L141.255 160h229.489l54.627-54.627c12.498-12.497 32.758-12.497 45.256 0 12.496 12.497 12.496 32.758 0 45.255L424 197.255V256h56c17.972 0 32.484 14.816 31.988 32.9zM257 0c-61.856 0-112 50.144-112 112h224C369 50.144 318.856 0 257 0z">
+                                                    </path>
+                                                </svg><!-- <i class="fas fa-bug"></i> -->
+                                            </div><!--//icon-holder-->
+                                            <div class="content">
+
+                                                <h4 class="callout-title">Please note</h4>
+                                                <ul>
+                                                    <li>Don't try to generate APK without config firebase</li>
+                                                    <li>Don't try To sync the project without config firebase</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        </p>
+
+                                    </div>
+                                </div>
+                                <div id="android-project-onesignal" class="section-block">
+                                    <h4 class="block-title">Onesignal Configuration</h4>
+                                    <div class="content">
+                                        <p>
+                                            After config Firebase now you need to config the Onesignal. visit the docs.
+                                            <br>
+                                            <br>
+                                            <center>
+                                                <a href="https://documentation.onesignal.com/docs/android-sdk-setup"
+                                                    class="btn btn-green" target="_blank"> Onesignal Android SDK
+                                                    Setup</a>
+                                            </center>
+                                            <br>
+                                            <br>
+                                            To finish onesignal configuration you should add firebase Legacy server key
+                                            to your
+                                            onesignal
+                                            <br>
+                                            go to firebase > your project settinggs > Cloud Messaging and copy the
+                                            Legacy server key (check screenshot bellow)
+                                            <br>
+                                            <img src="assets/images/image_3.png" style="width:100%">
+                                            <br>
+                                            To change the onesignal id find the path (check screenshot bellow).
+                                            <br>
+                                            InSaver-Reels-Story-Video\app\src\main\java\com\banrossyn\post\story\downloader\api\GetDataFromServer.java
+                                            <br>
+                                            <br>
+                                            <img src="assets/images/onesignal_id.png" style="width:100%">
+                                            <br>
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="app-customization" class="doc-section">
+                                <h2 class="section-title">Android Application Customization</h2>
+                                <div class="content">
+                                    <p>After config everything now you app need a customization to take your touch like
+                                        title,icon,colors .... </p>
+                                </div>
+                                <br>
+                                <div id="app-customization-name" class="section-block">
+                                    <h4 class="block-title">Change the application name</h4>
+                                    <div class="content">
+                                        <p>
+                                            To change the application name <br> Go to :
+                                        <div class="code-block">
+                                            <pre><code class="language-markup">Android App&gt;res&gt;values&gt;strings.xml</code></pre>
+                                        </div><!--//code-block-->
+                                        And change the application name there :
+                                        <div class="code-block">
+                                            <pre><code class="language-markup">&lt;string name="app_name"&gt;Your App Name &lt;/string&gt;</code></pre>
+                                        </div><!--//code-block-->
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+                                <div id="app-customization-logo" class="section-block">
+                                    <h4 class="block-title">Change the application icons</h4>
+                                    <div class="content">
+                                        <p>
+                                            To change the application logo <br> Go to :
+                                            <br>
+                                            <img src="assets/images/image_1.png" style="width:100%">
+
+                                            <br>Then change the icon on folders bellow <br>
+
+                                            <img src="assets/images/image_2.png" style="width:100%">
+
+                                        <div class="code-block">
+                                            <h6>Make sure you are using this sizes</h6>
+                                            <pre><code class="language-markup">
+replace the ic_launcher.png image by your icon to drawable folder with name logo.png and size 512px x 512 px
+replace the ic_launcher.png image by your icon to mipmap-mdpi folder with name ic_launcher.png and size 48px x 48 px
+replace the ic_launcher.png image by your icon to mipmap-hdpi folder with name ic_launcher.png and size 72px x 72 px
+replace the ic_launcher.png image by your icon to mipmap-xhdpi folder with name ic_launcher.png and size 96px x 96 px
+replace the ic_launcher.png image by your icon to mipmap-xxhdpi folder with name ic_launcher.png and size 144px x 144 px
+replace the ic_launcher.png image by your icon to mipmap-xxxhdpi folder with name ic_launcher.png and size 192px x 192 px
+                                            </code></pre>
+                                        </div><!--//code-block-->
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+                                <div id="app-customization-colors" class="section-block">
+                                    <h4 class="block-title">Change the application colors</h4>
+                                    <div class="content">
+                                        <p>
+                                            To change the application colors(Day\Night Theme) <br> Go to :
+                                        <div class="code-block">
+                                            <pre><code class="language-markup">Android App&gt;res&gt;values&gt;colors.xml</code></pre>
+                                            <pre><code class="language-markup">Android App&gt;res&gt;values-night&gt;colors.xml</code></pre>
+                                        </div><!--//code-block-->
+                                        And change the application colors like this :
+                                        <div class="code-block">
+                                            <pre><code class="language-markup">
+                                                
+&lt;color name="colorPrimaryDark"&gt;#dddee3&lt;/color&gt;
+&lt;color name="colorPrimary"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="colorPrimaryDarkMenu"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="colorPrimarybg"&gt;#dddee3&lt;/color&gt;
+
+&lt;color name="primary_text"&gt;#212121&lt;/color&gt;
+
+&lt;color name="colorAccent"&gt;#212121&lt;/color&gt;
+&lt;color name="white"&gt;#FFFFFF&lt;/color&gt;
+&lt;color name="light_white"&gt;#d4d4d4&lt;/color&gt;
+&lt;color name="red"&gt;#FF0000&lt;/color&gt;
+&lt;color name="blue"&gt;#2196F3&lt;/color&gt;
+&lt;color name="black"&gt;#000000&lt;/color&gt;
+&lt;color name="gray_color"&gt;#ccc&lt;/color&gt;
+&lt;color name="black_overlay"&gt;#66000000&lt;/color&gt;
+&lt;color name="primary_text_light"&gt;#606060&lt;/color&gt;
+&lt;color name="transparent"&gt;#00000000&lt;/color&gt;
+&lt;color name="dark_gray"&gt;#9c9c9c&lt;/color&gt;
+&lt;array name="dot_colors"&gt;
+    &lt;item&gt;#03A9F4&lt;/item&gt;
+    &lt;item&gt;#E65100&lt;/item&gt;
+    &lt;item&gt;#FFBB00&lt;/item&gt;
+&lt;/array&gt;
+                                            </code></pre>
+                                        </div><!--//code-block-->
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+                                <br>
+                                <div id="app-customization-facebook-ads" class="section-block">
+                                    <h4 class="block-title">Change Facebook Placement IDs/admob Ids</h4>
+                                    <div class="content">
+                                        <p>
+                                            To change the All Facebook Placement IDs/Admob Ids from Strings >
+                                            <br>
+                                            <br>
+                                            <img src="assets/images/admobids.png" style="width:100%">
+                                            <br>
+                                            <br>
+                                            change the adCounter &amp; adDisplayCounter to show or Limit of
+                                            interstitialAd
+                                            <br>
+                                            <br>
+                                            <img src="assets/images/admob_count.png" style="width:100%">
+                                            <br>
+                                        </p>
+
+                                        <br>
+                                    </div>
+                                </div>
+
+                                <div id="app-customization-policy-privacy" class="section-block">
+                                    <h4 class="block-title">Change the policy privacy </h4>
+                                    <div class="content">
+                                        <p>
+                                            To Change the policy privacy Text Edit in Strings<br>
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+
+                                <div id="app-customization-change-slider" class="section-block">
+                                    <h4 class="block-title">Change the Slider Images </h4>
+                                    <div class="content">
+                                        <p>
+                                            To Change the Slider Images Edit in AboutActivity.java<br>
+
+                                        <pre><code class="language-markup">
+String slider = "{\"images\":[{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixB9W1QCtcqMOpJDrPQsTWEA_yhtdjJjhY-RRih3bRbJVwNZxCBogwrL12fsWnSeAEqQpTKKXpZjK5KR85pbQE4zUVZjR7kTjWLvBth_OtS1h5DqEI8XPrPiVG5-xZAz8-h3bucPiRVbgvppFZmb8G8sjJOxgajXkDP9OeY3EerxIrX-v8zqDT0sH2-w/s894/one.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaWuMi4k7cOfRu0YFHbSqOFxnAkKQSN5RHD-Pqn1VMZxx1fTXspadTa5bTdwwwbNrJrZXsuiSqU1ZGXw5kjk0gh0E3NLIbGWl3nDfG_XT7ovfij6Y4xIz000VnxGSBi6DkR2m7Jo4MIkkwcfaewD16ZQsXWxDnWo4CP4fi6TIlptaT8y3c3V2DR-u4Ig/s894/two.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGZUXbTgcxxEfSXPXht06F742MigNYBm9oSskFFlGbaGrf_Ge0ODYiwYFBWmShKpoJ4oA3Tn4RDJY82HEp-SawIHEtpzroVqa5cqIGjGSQ2fjmlCIyjALnb9Ox3ozMsWHpb7iq9gAPBho9yosasSBoG0QC8U5SI0BXdl8P_nW8sT9ljihhH320uvHCNQ/s894/three.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwK6JKoY90lq6-cZxe55Ak66lLD6GomehX8v-9V_sj2p6e7tqUOS-2JcTSow51aYc85qZy0t5rF1CHLSFqlgxRZg0tDAcs3WxpZyHwGwD30XjJfkLM_BEjpVUHprEXDM9UgGikh7-Vygi85TvASSP9EWhRHYSV8F68RqVghkS0Xmq5VkzY7AZ_wUfYGw/s894/four.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu31Ygnp42rhifqvbLfDGUslbycx4OlIMjPzf-7Npt81SuDA2UbRADhV9HV-VEVEcTrnRfaWSudUoyu6PPu8_XY8roW1cIrwZ4ih2bz5mfAF6O8WATGUTieob8X42TCsYIZhQnSS5nYDI-Sw3_y2YE9jIg4PESUOQI2JGrFTRuCewE9jVruJUcEPUoKw/s894/five.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzNA47e4i4TgimoH5UfoM6F70JGGE1phoYY__GMqhweiINz-V_ybsTBcWAEWVt87Rix_7tK7iLQV18RdZRf9x0_3xwZa5G72F6uW3N6iq-OV9pzvSrtY0JFnxt3sbEhbiHKa3ZLS-yG9C69vEXNIppA3g6UgaMH9wRl2Pp-d8b5VHudqshGA3RE4jlig/s894/six.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAieB2_svLwNbdnG5MvVaQt1H9HQbPk1FVA9QpzcoTR4jSkEAQgBWHsVYgqubsaI7KdYzvgRsoXtypxvr71G6UpHoA0Hcz20qNOAp3-QI8F7ZU3FqlJ5ge9dN8BicxWti4b6VPCqiV49Q-lRsEISl75jT2sdfNm6B_HDmhSBuAj2xdnaiMmmAovYwtXQ/s894/seven.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52_ksfwUwmXZ8I27-cpQDlMEsrEu_Wtpwlpnv1vTf4yy-G9BrA7C7okBhYlCdGNTUtB87dAKilT3ZwtutR2lDR66wHcbWj8zlPGNyM5kWEbH8DNFVsx9yYesBKs199isjVo5JkNhkGAQ29PUXwbp4jsBETkdDivfm6L0lFmwtTQqh_HqXjda3-SDAA/s894/eight.png\"},{\"url\":\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyRugSWiDhsNhiQMDsetcO1LhkK1PG-nkz5EEn41APOpdv38xo8_lvjKyWE6mUFsF9RgJ9KyLlxFuW9T-QC_rnDdg4z5OCAjzrGHheR0cHug-NqTVqYfTWTyjV-ro89squYusMZAhuiKudKOM-TOFtL3iYwJcQZ-YRqjVdIE1OMw442AFXN9AAaSx9Gw/s894/nine.png\"}]}";
+                                            </code></pre>
+                                        </p>
+
+
+                                        <br>
+                                    </div>
+                                </div>
+
+                                <div id="app-customization-sharedpraf" class="section-block">
+                                    <h4 class="block-title">Change the SharedPefrence</h4>
+                                    <div class="content">
+                                        <p>
+                                            Change the SharedPefrence Text Edit in
+                                            InSaver-Reels-Story-Video\app\src\main\java\com\banrossyn\post\story\downloader\util\Utils.java<br>
+                                            <br>
+                                            <img src="assets/images/sharedper.png" style="width:100%">
+                                            <br>
+                                            <br>
+
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+
+                                <div id="app-customization-reword" class="section-block">
+                                    <h4 class="block-title">Change the Hide interstitialAd reword system</h4>
+                                    <div class="content">
+                                        <p>
+                                            Change the reword string and boolean values in
+                                            InSaver-Reels-Story-Video\app\src\main\java\com\banrossyn\post\story\downloader\util\Utils.java<br>
+                                            <br>
+                                            <img src="assets/images/rewordforinter.png" style="width:100%">
+                                            <br>
+                                            <br>
+
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+                                <div id="app-customization-donot-make-changes" class="section-block">
+                                    <h4 class="block-title">Naver make change: </h4>
+                                    <div class="content">
+                                        <p>
+                                            Please do not change anything at these places in the app, otherwise you may
+                                            face problems.
+                                            <br>
+                                            folders: api, data, model, room_data
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+
+
+                                <div id="app-customization-InSaver" class="section-block">
+                                    <h4 class="block-title">InSaver: Reels , Story &amp; Video</h4>
+                                    <div class="content">
+                                        <p>
+                                            Thank you for purchasing our app. If you have any questions that are beyond
+                                            the scope of this help file, please feel free to via whatsapp or email.
+                                            Thanks you so much!
+                                            <br>
+                                            <br>
+                                            whatsapp: +919694260426
+                                            <br>
+                                            Email: banrossyn@gmail.com
+                                            <br>
+                                            <br>
+                                            <iframe width="800" height="440"
+                                                src="https://www.youtube.com/embed/6pVj9-0GIlQ" frameborder="0"
+                                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                                allowfullscreen></iframe>
+                                            <br>
+                                        <p align="center">
+                                            <a
+                                                href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
+                                                <img src="assets/images/playstore.png" width="300" />
+                                            </a>
+                                        </p>
+                                        </p>
+                                        <br>
+                                    </div>
+                                </div>
+
+                            </section>
+
+                        </div><!--//content-inner-->
+                    </div><!--//doc-content-->
+                    <div class="doc-sidebar col-md-3 col-12 order-0 d-none d-md-flex">
+                        <div id="doc-nav" class="doc-nav">
+
+                            <nav id="doc-menu" class="nav doc-menu flex-column sticky">
+
+                                <a class="nav-link scrollto" href="#android-studio">Android Studio</a>
+                                <nav class="doc-sub-menu nav flex-column">
+                                    <a class="nav-link scrollto" href="#android-studio-download">Download</a>
+                                    <a class="nav-link scrollto" href="#android-studio-open-project">Open Project</a>
+                                </nav><!--//nav-->
+
+                                <a class="nav-link scrollto" href="#android-project">Config Android Project</a>
+                                <nav class="doc-sub-menu nav flex-column">
+                                    <a class="nav-link scrollto" href="#android-project-package-name">Change the package
+                                        name</a>
+                                    <a class="nav-link scrollto" href="#android-project-firebase">Firebase
+                                        Configuration</a>
+                                    <a class="nav-link scrollto" href="#android-project-onesignal">Onesignal
+                                        Configuration</a>
+                                </nav><!--//nav-->
+
+                                <a class="nav-link scrollto" href="#app-customization">The Application Customization</a>
+                                <nav class="doc-sub-menu nav flex-column">
+                                    <a class="nav-link scrollto" href="#app-customization-name">Change the application
+                                        name</a>
+                                    <a class="nav-link scrollto" href="#app-customization-logo">Change the application
+                                        Logo</a>
+                                    <a class="nav-link scrollto" href="#app-customization-colors">Change the application
+                                        colors</a>
+                                    <a class="nav-link scrollto" href="#app-customization-facebook-ads">Change Facebook
+                                        Placement ID / Admob ids</a>
+                                    <a class="nav-link scrollto" href="#app-customization-policy-privacy">Change the
+                                        policy privacy</a>
+                                    <a class="nav-link scrollto" href="#app-customization-change-slider">Change the
+                                        Slider Images</a>
+                                    <a class="nav-link scrollto" href="#app-customization-sharedpraf">Change the
+                                        SharedPefrence</a>
+                                    <a class="nav-link scrollto" href="#app-customization-reword">Change the Hide
+                                        interstitial Ads reword system</a>
+                                    <a class="nav-link scrollto" href="#app-customization-donot-make-changes">Naver make
+                                        change</a>
+                                    <a class="nav-link scrollto" href="#app-customization-InSaver">InSaver: Reels ,
+                                        Story &amp; Video</a>
+
+                                </nav><!--//nav-->
+
+
+
+
+
+                            </nav><!--//doc-menu-->
+
+                        </div>
+                    </div><!--//doc-sidebar-->
+                </div><!--//doc-body-->
+
+            </div><!--//container-->
+
+        </div><!--//doc-wrapper-->
+
+        <!-- Main Javascript -->
+        <script type="text/javascript" src="assets/plugins/jquery-3.3.1.min.js"></script>
+        <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="assets/plugins/prism/prism.js"></script>
+        <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+        <!-- <script type="text/javascri -->
+
+</body>
+
+</html>
