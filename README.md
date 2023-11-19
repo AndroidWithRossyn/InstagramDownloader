@@ -25,7 +25,8 @@
 
 
 # What's new:
-    🔥 Bug Fix Download Via Link works.
+    🔥 In-App Billing 🔥
+    
     🔥 Bookmark With Username.
     🔥 Now Save DP, Highlights & Stories via search.
     🔥 Now Save WhatsApp Status.
@@ -54,11 +55,24 @@ Regars
 
 Rossyn
 
+##
+
 <p align="center">
-    <a href="https://github.com/OmaPrakash/InstagramDownloader/raw/main/InSaver.zip">
-    <img src="https://github.com/OmaPrakash/InstagramDownloader/assets/118904953/1a481b6a-e501-4a04-9689-374ee4ba9058" width ="300" />
+    <a href="https://omaprakash.github.io/InstagramDownloader/">
+    <img src="https://github.com/OmaPrakash/InstagramDownloader/assets/118904953/123514ca-8cc2-4627-b304-e0c713fb1946" width ="300" />
    </a>
+   
   </p>
+  
+## 
+  
+  <p align="center">
+    <a href="https://omaprakash.github.io/InstagramDownloader/privacy%20policy.html">
+    <img src="https://github.com/OmaPrakash/InstagramDownloader/assets/118904953/cc502348-a358-49d2-911b-f16d64a85998" width ="300" />
+   </a>
+   
+  </p>
+  
 
 ## InSaver Instagram Downloader
 <p align="center">
@@ -200,7 +214,7 @@ No data collected
 Please consider rating the app if you are satisfied with the product. Thank you.
 # License:
 ```
-Copyright 2020 Rossyn
+Copyright 2022 Rossyn
 Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
 See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
 The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
