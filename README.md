@@ -2,8 +2,6 @@
     <h3 align="center">InSaver helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
 <h4 align="center">Elevate your Instagram game with our powerful Downloader App 📥📸 Save, savor, and share your favorite moments offline! </h4>
 
-
-
 <div align="center">
 
 ![Stars](https://img.shields.io/github/stars/AndroidWithRossyn/InstagramDownloader)
