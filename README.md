@@ -1,32 +1,24 @@
-<p align="center">
-  <h1 align="center">Video Downloader for Instagram Android Source Code</h1>
-  
-  <h3>InSaver helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
-  Elevate your Instagram game with our powerful Downloader App 📥📸 Save, savor, and share your favorite moments offline! 
-<br>
-<br>
-<br>
-
-  
-- ⚡  If You want to join us than message on <a href="https://wa.me/+919694260426/">Whatsapp</a> , <a href="banrossyn@gmail.com">Mail</a>
-&
-<a href="https://t.me/banrossyn">Telegram</a>. 
-
-> Note: `-- Apache License 2.0` you can't Publish any Source code without permission.
-
-  
-# InSaver: Reels , Story & Video (JAVA)
-<p align="center">
-    <a href="https://www.paypal.com/paypalme/banrossyn">
-      <img src="https://user-images.githubusercontent.com/97843190/184054819-e2e80e69-df46-4d38-8769-5d591673d412.png" Width="400"/>
-    </a>
-  </p>
-<p align="center">If you like my work and Source Code is really helpful for you, <strong>Show Some Love</strong></p>
+<h1 align="center">Video Downloader for Instagram Android Source Code</h1>
+    <h3 align="center">InSaver helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
+<h4 align="center">Elevate your Instagram game with our powerful Downloader App 📥📸 Save, savor, and share your favorite moments offline! </h4>
 
 
-# What's new:
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/AndroidWithRossyn/InstagramDownloader)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/InstagramDownloader)
+![pv](https://pageview.vercel.app/?github_user=InstagramDownloader)
+<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40banrossyn-28a8ea"></a>
+<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%40+919694260426-28a8ea"></a>
+<a href="https://www.linkedin.com/in/banrossyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-banrossyn-informational"></a>
+<a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Email-banrossyn%40gmail.com-blue"></a>
+
+</div>
+
+
+## What's new:
     🔥 In-App Billing 🔥
-    
     🔥 Bookmark With Username.
     🔥 Now Save DP, Highlights & Stories via search.
     🔥 Now Save WhatsApp Status.
@@ -38,70 +30,42 @@
     🔥 Get IGTV videos and watch them directly.
     🔥 Improved user experience.
 
-# Source Code Available at Low Price.
-
-For any inquiry, app support or app customization contact us at
-
-–  banrossyn@gmail.com
-
-–  https://wa.me/+919694260426/
-
-–  https://t.me/banrossyn/
-
-# Note:
-This source code will be offical given directly through the developer. You will not find this on any selling website. To buy the source code, you have to directly connect with the developer. For this, payment will have to be made through the method given by the developer, after payment you will be given the source code through mail. Any kind of change in the app will be charged separately. After purchasing the app, you will be helped till it is published.
-
-Regars
-
-Rossyn
 
 ##
 
 <p align="center">
     <a href="https://omaprakash.github.io/InstagramDownloader/">
-    <img src="https://github.com/OmaPrakash/InstagramDownloader/assets/118904953/123514ca-8cc2-4627-b304-e0c713fb1946" width ="300" />
+    <img src="https://github.com/AndroidWithRossyn/InstagramDownloader/assets/118904953/123514ca-8cc2-4627-b304-e0c713fb1946" width ="300" />
    </a>
    
-  </p>
-  
-## 
-  
-  <p align="center">
-    <a href="https://omaprakash.github.io/InstagramDownloader/privacy%20policy.html">
-    <img src="https://github.com/OmaPrakash/InstagramDownloader/assets/118904953/cc502348-a358-49d2-911b-f16d64a85998" width ="300" />
+   <a href="https://omaprakash.github.io/InstagramDownloader/privacy%20policy.html">
+    <img src="https://github.com/AndroidWithRossyn/InstagramDownloader/assets/118904953/cc502348-a358-49d2-911b-f16d64a85998" width ="300" />
    </a>
-   
+    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
+      <img src="https://user-images.githubusercontent.com/97843190/183300573-ac4dd10f-b7e2-476d-a36d-7dd12ff497c7.png" width ="300" />
+    </a>
   </p>
   
 
 ## InSaver Instagram Downloader
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
+    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
       <img src="https://github.com/OmaPrakash/InSaver-Reels-Story-Video/assets/118904953/284cd512-e2f5-43aa-b225-9974606f3b8c" width="1280" />
     </a>
   </p>
-  
-
- # Download Now:
-<p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
-      <img src="https://user-images.githubusercontent.com/97843190/183300573-ac4dd10f-b7e2-476d-a36d-7dd12ff497c7.png" width ="300" />
-    </a>
-  </p>
-
 
  # InSaver Best Instagram Downloader:
 All Post types are Supported. You can view and save many things such as IGTV, Reels, Story, Highlight, Photos,Videos.
 When you wanna download videos from Instagram feeds and IGTV, story saver and video downloader for Instagram is the right choice. InSaver - Instagram story downloader is simple to use. Just copy the link or share it to the story saver app, and the video or photo will be auto-downloaded right away. Try story saver for Instagram right now!
 
  <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
+    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
       <img src="https://user-images.githubusercontent.com/118904953/207775346-d2d9ea75-b84d-4e6d-b6c3-32f2628382e3.png" width="1280" />
     </a>
   </p>
 
      
-# Features:
+## Features:
     ✪ Fast Download.
     ✪ Copy and shere link download.
     ✪ Bookmark your favorite Person.
@@ -117,11 +81,11 @@ When you wanna download videos from Instagram feeds and IGTV, story saver and vi
     ✪ Share media with anyone.
   
     
-# Best Reels Video Downloader for Instagram:
+## Best Reels Video Downloader for Instagram:
 Reels is a kind of short video in Instagram, you can now download reels video from Instagram and Instagram lite. The easiest way to download Videos for Reels is sharing the link of Reels video to insaver. 
 
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.banrossyn.post.story.downloader">
+    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
        <img src="https://user-images.githubusercontent.com/97843190/183300573-ac4dd10f-b7e2-476d-a36d-7dd12ff497c7.png" width ="300" />
     </a>
   </p>
@@ -149,7 +113,7 @@ In a world where digital experiences often feel fleeting, our Instagram Download
 
 In essence, our Instagram Downloader is your key to unlocking a more profound and intimate relationship with Instagram. It's a tool that transforms your scrolling into a purposeful journey, where each saved post becomes a bookmark in the story of your life. So why wait? Embrace the power to preserve and enhance your Instagram experience today with our Instagram Downloader – because every moment deserves to be cherished, offline and on your terms.
 
-# How to Download Videos from Instagram :
+## How to Download Videos from Instagram :
 Method 1:
   ① Open Instagram and copy the link of Video, Photo, Reels Video and Highlight
   ② Open InSaver story saver app
@@ -160,18 +124,18 @@ Method 2:
   click on Download any items The InSaver app will start to download story & video automatically.
 
       
-# How to repost Instagram?
+## How to repost Instagram?
 1. Check the downloaded videos or photos, also you can repost stories.
 2. Click " repost" to reshare, you can copy hashtag and caption before you repost.
 
-# Data safety:
+## Data safety:
 No data shared with third parties
   This app doesn't share user data with other companies or organisations.
   
 No data collected
   This app doesn’t collect user data
 
-# Disclaimer:
+## Disclaimer:
 - This video downloader is not associated with Instagram.
 - This application is NOT affiliated or endorsed by Instagram.
 - You should understand that the ownership, intellectual property rights, and any other interests of the Video, Photo, Instagram Story, Reels Video even Highlight on the platform belong to its publishers or owners. We respect such legitimate rights and interests of the publishers or the owners. We recommend you obtain permission before download and use the content, also, you shall indicate the source of the content when using the downloaded Video, Photo, Instagram Story, Reels Video even Highlight.
@@ -179,7 +143,7 @@ No data collected
 
 
 
-# Screenshots:
+## Screenshots:
 
  <p align="center">
     <a>
@@ -209,20 +173,7 @@ No data collected
  <a>
   </p>
 
-  
-# Rate the app:
-Please consider rating the app if you are satisfied with the product. Thank you.
-# License:
-```
-Copyright 2022 Rossyn
-Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements. 
-See the NOTICE file distributed with this work for additional information regarding copyright ownership. 
-The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); 
-you may not use this file except in compliance with the License. You may obtain a copy of the 
-License at 
-  http://www.apache.org/licenses/LICENSE-2.0 
-Unless required by applicable law or agreed to in writing, software distributed under the License is 
-distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either
-express or implied. See the License for the specific language governing permissions and limitations under the License."
-  
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
