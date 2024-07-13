@@ -39,7 +39,7 @@
    <a href="https://omaprakash.github.io/InstagramDownloader/privacy%20policy.html">
     <img src="https://github.com/AndroidWithRossyn/InstagramDownloader/assets/118904953/cc502348-a358-49d2-911b-f16d64a85998" width ="300" />
    </a>
-    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
       <img src="https://user-images.githubusercontent.com/97843190/183300573-ac4dd10f-b7e2-476d-a36d-7dd12ff497c7.png" width ="300" />
     </a>
   </p>
@@ -47,7 +47,7 @@
 
 ## InSaver Instagram Downloader
 <p align="center">
-    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
       <img src="https://github.com/OmaPrakash/InSaver-Reels-Story-Video/assets/118904953/284cd512-e2f5-43aa-b225-9974606f3b8c" width="1280" />
     </a>
   </p>
@@ -57,7 +57,7 @@ All Post types are Supported. You can view and save many things such as IGTV, Re
 When you wanna download videos from Instagram feeds and IGTV, story saver and video downloader for Instagram is the right choice. InSaver - Instagram story downloader is simple to use. Just copy the link or share it to the story saver app, and the video or photo will be auto-downloaded right away. Try story saver for Instagram right now!
 
  <p align="center">
-    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
       <img src="https://user-images.githubusercontent.com/118904953/207775346-d2d9ea75-b84d-4e6d-b6c3-32f2628382e3.png" width="1280" />
     </a>
   </p>
@@ -83,7 +83,7 @@ When you wanna download videos from Instagram feeds and IGTV, story saver and vi
 Reels is a kind of short video in Instagram, you can now download reels video from Instagram and Instagram lite. The easiest way to download Videos for Reels is sharing the link of Reels video to insaver. 
 
 <p align="center">
-    <a href="https://github.com/AndroidWithRossyn/InstagramDownloader/raw/main/Paid-InSaver-release-Skin-1.apk">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
        <img src="https://user-images.githubusercontent.com/97843190/183300573-ac4dd10f-b7e2-476d-a36d-7dd12ff497c7.png" width ="300" />
     </a>
   </p>
@@ -91,6 +91,11 @@ Reels is a kind of short video in Instagram, you can now download reels video fr
 
 Discover the ultimate convenience with our Instagram Downloader. Effortlessly save and enjoy your favorite photos and videos from Instagram anytime, anywhere. Whether it's stunning snapshots, inspiring visuals, or entertaining videos, our downloader lets you capture and cherish moments offline. Say goodbye to limitations and enhance your Instagram experience with the ability to keep a personal collection at your fingertips. Simple to use and packed with features, our Instagram Downloader empowers you to curate content that resonates with you. Elevate your IG journey and explore the endless possibilities of preserving memories with ease. Download now and relish the freedom of content ownership.
 
+ <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
+      <img src="https://github.com/user-attachments/assets/51f27e02-2df1-4779-9ce3-daea73c90a25" width="1280" />
+    </a>
+  </p>
 In today's fast-paced digital world, Instagram has become a powerhouse of visual content, a canvas where moments are captured, stories are shared, and creativity knows no bounds. But what happens when you stumble upon a breathtaking photo or an awe-inspiring video that you wish to cherish beyond the fleeting scroll of your feed? This is where our Instagram Downloader steps in, offering you a gateway to an enriched and more personalized Instagram experience.
 
 Imagine a tool that empowers you to transcend the confines of online connectivity and make your cherished Instagram content a part of your offline world. Our Instagram Downloader is precisely that bridge, a conduit that allows you to save and relive your favorite Instagram moments at your own pace, wherever and whenever you want.
@@ -99,12 +104,23 @@ Gone are the days of fretting over unstable network connections or the fear of c
 
 Using our downloader is a breeze. With a user-friendly interface designed for seamless navigation, you can effortlessly save posts from Instagram with just a few taps. Whether you're an avid photographer, a travel enthusiast, a foodie, or simply someone who loves sharing and preserving memorable moments, our Instagram Downloader is your trusty companion.
 
+ <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
+      <img src="https://github.com/user-attachments/assets/f23a70b0-6145-469d-9975-51f445a30967" width="1280" />
+    </a>
+  </p>
+  
 Picture this: you're scrolling through your Instagram feed and come across an artistically composed photograph that resonates with you on a profound level. Instead of letting it slip through the endless stream of content, you can now click a button and have it safely stored in your personal collection. It becomes more than just a digital image – it becomes a piece of your world, ready to evoke emotions whenever you choose to revisit it.
 
 And it's not just photos. Our Instagram Downloader lets you save videos as well, allowing you to capture the essence of a moment in motion. Whether it's a DIY tutorial, a mesmerizing travel clip, or a heartwarming pet video, you have the power to preserve these visual narratives and replay them whenever you need a dose of inspiration, laughter, or nostalgia.
 
 But our Instagram Downloader goes beyond mere content storage. It's about empowerment, about putting you in control of your Instagram journey. You can now curate your own themed collections, organize your saved posts by categories that resonate with you, and create a personalized library that reflects your unique interests and passions.
-
+ <p align="center">
+    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
+      <img src="https://github.com/user-attachments/assets/001ae678-2a5c-4970-bc51-d54e64d9a62c" width="1280" />
+    </a>
+  </p>
+  
 Moreover, our downloader respects the privacy and copyright of content creators. It's not about unauthorized distribution; it's about appreciation and connection. You can use our downloader to save content that genuinely moves you, supporting creators by engaging with their work in a meaningful way.
 
 In a world where digital experiences often feel fleeting, our Instagram Downloader offers you the ability to make your online interactions lasting. It's an invitation to slow down, to savor, and to make Instagram an integral part of your life beyond the screens. It's about turning a platform into a canvas that holds your memories, your dreams, and your aspirations.
