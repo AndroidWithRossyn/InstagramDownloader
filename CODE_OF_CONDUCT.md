@@ -1,31 +1,27 @@
-# Transform Your Instagram Experience with Our Advanced Downloader App!
-Unlock the full potential of Instagram with our state-of-the-art Instagram Downloader app, designed meticulously using Kotlin for the ultimate performance and reliability. This app offers a seamless way to download photos, videos, and stories, ensuring you never miss a moment.
+By using this app, you agree to adhere to the following code:
 
-## Features:
-* High-Speed Downloads: Enjoy lightning-fast downloads with our optimized algorithms.
-* User-Friendly Interface: Intuitive and easy-to-navigate design for a hassle-free experience.
-* Batch Downloads: Download multiple files at once, saving you time and effort.
-* High-Quality Media: Get photos and videos in their original quality.
-* Secure & Reliable: Built with the best practices in security to protect your data.
+### **1. Respect for Copyright and Privacy**
+- Do not download or distribute content without the owner's permission. Ensure that you have the legal right to download and use the media.
+- Respect the privacy of others by not sharing personal or sensitive media without consent.
 
-## Why Choose Our Code:
-* Clean and Modular Code: Well-documented and easy to customize for your specific needs.
-* Kotlin Excellence: Leveraging the power of Kotlin for modern Android development.
-* Regular Updates: Stay ahead with the latest features and improvements.
-* Dedicated Support: Comprehensive support to help you integrate and expand the app.
+### **2. Responsible Use**
+- Use the app for personal purposes only. Commercial use of downloaded media is strictly prohibited unless you have explicit permission from the content owner.
+- Do not misuse the app to infringe on Instagram’s terms of service or any applicable laws.
 
-Elevate your app portfolio with this feature-rich Instagram Downloader and provide your users with the best downloading experience. Don’t miss this opportunity to own premium-quality code that stands out in the competitive market!
+### **3. Prohibited Actions**
+- Do not share, distribute, or resell the app’s source code, as it is licensed solely for your personal use and must not be shared publicly or privately without authorization.
+- Do not engage in any form of data scraping, automated downloads, or other abusive activities that may harm Instagram’s services or violate their policies.
 
-![preview](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*oudXyms7ZAhOB5DASEaMYQ.jpeg)
+### **4. Compliance with Instagram’s Policies**
+- Users must comply with Instagram’s Community Guidelines and Terms of Service while using this app. Any violation of these policies is not supported by our app, and the user will be solely responsible for their actions.
 
-Unlock the Potential: Own the Source Code of Our Instagram Downloader App!
+### **5. Reporting Violations**
+- If you notice any behavior that violates this Code of Conduct, please report it to us immediately. We are committed to maintaining a safe and compliant environment for all users.
 
-Telegram — https://t.me/banrossyn
+### **6. Consequences of Violation**
+- Violation of this Code of Conduct may result in restrictions on app usage, legal actions, or other penalties as deemed appropriate by the app developers.
 
-Whatsapp — https://wa.me/+919694260426/
+### **7. Updates to the Code of Conduct**
+- This Code of Conduct may be updated periodically to ensure compliance with new laws, policies, or ethical standards. Users are encouraged to review this document regularly.
 
-Email — banrossyn@gmail.com
 
-Github — https://github.com/AndroidWithRossyn/InstagramDownloader
-
-Available at Playstore — https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader
