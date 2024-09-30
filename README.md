@@ -1,4 +1,4 @@
-<h1 align="center">Instagram Downloader Android Source Code</h1>
+<h1 align="center">Instagram Downloader</h1>
     <h3 align="center">This App helps you save Video, Photo, Storys, reels and Highlight from Instagram</h3>
 <h4 align="center">Elevate your Instagram game with our powerful Downloader App 📥📸 Save, savor, and share your favorite moments offline! </h4>
 
@@ -7,8 +7,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/InstagramDownloader)
 ![pv](https://pageview.vercel.app/?github_user=InstagramDownloader)
 <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader"><img src="https://img.shields.io/badge/Beta Tester-PlayStore Apps-red"></a>
-<a href="https://t.me/banrossyn" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=Telegram&logoColor=white"></a>
-<a href="https://wa.me/+919694260426/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366.svg?logo=WhatsApp&logoColor=white"></a>
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </div>
 
@@ -93,13 +91,8 @@ IsSave (Preview):
 
 
 > **Please Note:**
->
-> - **Pricing Varies by Language:** The cost of Source Code differs based on the app's programming language.
-> - **Java Apps:** Java apps is done using Material Components.
-> - **Kotlin Apps:** Kotlin apps is implemented with the latest Material 3 design.
->
-> Contact us for detailed pricing and to discuss your specific requirements!
-> Mail: banrossyn@gmail.com | WA:  +919694260426
+> This project is no longer available for sale. The selling was only available for a limited time. 
+>Thank you for your understanding.
 
 
 #### What You Get
@@ -115,18 +108,7 @@ IsSave (Preview):
 - Required AGP version 3.2-8.5
 
 
-## Professional Reskinning Service!
-- **Custom Design**: We customize the app’s UI/UX to align with your brand identity, including colors, icons, fonts, and layouts.
-- **Feature Integration**: Add new features or modify existing ones to meet your specific needs and preferences.
-- **App Optimization**: Ensure your app looks great and performs optimally across all devices and screen sizes.
-- **Quick Turnaround**: Fast and efficient reskinning service to get your app ready for launch in no time.
-- **Play Store Ready**: We ensure your reskinned app meets Google Play Store guidelines and is ready for publishing.
 
-<p align="center">
-    <a href="mailto:banrossyn@gmail.com">
-      <img src="https://github.com/user-attachments/assets/fbb22238-b781-4e21-baae-bfde58d8a37e" width = "1000" />
-    </a>
-</p>
 
 ### Copyright & License
 
