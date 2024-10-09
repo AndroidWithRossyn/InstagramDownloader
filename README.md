@@ -6,7 +6,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/InstagramDownloader)
 ![pv](https://pageview.vercel.app/?github_user=InstagramDownloader)
-<a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader"><img src="https://img.shields.io/badge/Beta Tester-PlayStore Apps-red"></a>
+<a href="https://play.google.com/store/search?q=issave&c=apps"><img src="https://img.shields.io/badge/Beta Tester-PlayStore Apps-red"></a>
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </div>
 
@@ -72,7 +72,7 @@ InSaver (Preview):
 # Kotlin Project
 
 <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.sumino.issave.storysaver.photovideo.downloader">
+    <a href="https://play.google.com/store/search?q=issave&c=apps">
       <img src="https://github.com/user-attachments/assets/d9180f4e-9c4c-4825-b894-eb621aeb9409" width = "400" />
     </a>
 </p>
