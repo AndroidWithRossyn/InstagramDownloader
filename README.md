@@ -90,9 +90,17 @@ IsSave (Preview):
 </p>
 
 
-> **Please Note:**
-> This project is no longer available for sale. The selling was only available for a limited time. 
->Thank you for your understanding.
+🚀 For Sale: Kotlin Android Source Code! 🚀
+
+Looking to kickstart your app project? I’m selling my Kotlin-based Android source code! 💻✨ 
+
+✅ Well-documented  
+✅ Easy to customize  
+✅ Ready for integration  
+Reach out for details and let's bring your app idea to life! 📱💡
+
+- 👉 [https://wa.me/+919694260426]
+- 👉 [https://play.google.com/store/search?q=issave&c=apps]
 
 
 #### What You Get
