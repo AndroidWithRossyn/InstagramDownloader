@@ -5,7 +5,6 @@
 <div align="center">
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndroidWithRossyn/InstagramDownloader)
-![pv](https://pageview.vercel.app/?github_user=InstagramDownloader)
 <a href="https://play.google.com/store/search?q=issave&c=apps"><img src="https://img.shields.io/badge/Beta Tester-PlayStore Apps-red"></a>
 <a href="mailto:banrossyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </div>
@@ -13,6 +12,13 @@
 
 
 ---
+- [Privacy Policy](https://www.suminoapps.com/products/insaver/privacypolicy)
+- [FAQ](https://www.suminoapps.com/products/insaver/faqs)
+- [Downloading & Republish](https://www.suminoapps.com/products/insaver/downloadsandrepublish)
+- [Cookies Policy](https://www.suminoapps.com/products/insaver/cookiespolicy)
+- [App permission & SDKs](https://www.suminoapps.com/products/insaver/moreinfo)
+
+
 ## Best Instagram Downloader:
 All Post types are Supported. You can view and save many things such as IGTV, Reels, Story, Highlight, Photos,Videos.
 When you wanna download videos from Instagram feeds and IGTV, story saver and video downloader for Instagram is the right choice. InSaver - Instagram story downloader is simple to use. Just copy the link or share it to the story saver app, and the video or photo will be auto-downloaded right away. Try story saver for Instagram right now!
@@ -99,6 +105,7 @@ Looking to kickstart your app project? I’m selling my Kotlin-based Android sou
 ✅ Ready for integration  
 Reach out for details and let's bring your app idea to life! 📱💡
 
+- 👉 [https://www.suminoapps.com/]
 - 👉 [https://wa.me/+919694260426]
 - 👉 [https://play.google.com/store/search?q=issave&c=apps]
 
@@ -108,11 +115,12 @@ Reach out for details and let's bring your app idea to life! 📱💡
 - Full Android App Source Code with AdMob Ads.
 - Full Android App Source Code with In-App Purchase.
 - Android Project Documentation.
-- Projects `minSdk = 24` && `targetSdk = 35`.
+- Project Compile With 16kb page size.
+- Projects `minSdk = 24` && `targetSdk = 36`.
 
 
 #### Requirements
-- Android Studio version Koala | 2024.1.1
+- Android Studio version Koala | 2024.1.1 or latest
 - Required AGP version 3.2-8.5
 
 
